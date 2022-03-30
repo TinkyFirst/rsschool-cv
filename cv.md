@@ -1,1 +1,3 @@
-My name is Popovych Andrii, i started learn javascript & fronte-nd in summary, i have small experiense in commercial work, but want update my knowlange, and want have little bit more knowlange in front-end
+My name is Popovych Andrii, i started learn javascript & fronte-nd in summary, i have small experiense in commercial work, but want update my knowlange, and want have little bit more knowlange in front-end. 
+
+Have english level b1, and higher study degree
